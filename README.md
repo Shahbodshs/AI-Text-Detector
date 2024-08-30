@@ -6,9 +6,11 @@ I wanted to use Longformer model or Bigbird for such task since they have much b
 i couldnt work with thoes models with the knowledge i have.(But i will definitely try later on to do such task). 
 
 ## Datasets: 
-1- [LLM - Detect AI Generated Text Dataset](https://www.kaggle.com/datasets/sunilthite/llm-detect-ai-generated-text-dataset) 
-2- [DAIGT V2 Train Dataset](https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset)
-3- [LLM Generated Essays for the Detect AI Comp!](https://www.kaggle.com/datasets/radek1/llm-generated-essays)
+- [LLM - Detect AI Generated Text Dataset](https://www.kaggle.com/datasets/sunilthite/llm-detect-ai-generated-text-dataset) 
+
+- [DAIGT V2 Train Dataset](https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset)
+
+- [LLM Generated Essays for the Detect AI Comp!](https://www.kaggle.com/datasets/radek1/llm-generated-essays)
 
 ## Other ideas: 
 My tought process at first was to use a hybrid method for generating such models, to caputre both simpple and complicated relation ships between words and either simple NN for final prediction
