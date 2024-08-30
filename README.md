@@ -15,7 +15,8 @@ i couldnt work with thoes models with the knowledge i have.(But i will definitel
 ## Other ideas: 
 My tought process at first was to use a hybrid method for generating such models, to caputre both simpple and complicated relation ships between words and either simple NN for final prediction
 or use weighted average for the predictions or make the model learn to how to use the prediction in the best way 
-
+## The code files: 
+Simply go to the code branch and download the codes from there.
 
 ## Model: 
 as i said i have fine-tuned a BERT-cased version model. 
